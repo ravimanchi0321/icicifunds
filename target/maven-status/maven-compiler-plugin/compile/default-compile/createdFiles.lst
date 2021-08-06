@@ -1,0 +1,4 @@
+icici\echo\boundary\EchoResource.class
+icici\echo\entity\Echo.class
+icici\JAXRSConfiguration.class
+icici\echo\control\EchoManager.class
